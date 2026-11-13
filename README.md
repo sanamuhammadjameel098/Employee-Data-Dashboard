@@ -68,3 +68,8 @@ The application will open in the web browser.
 
 ## 11. Conclusion
 The Employee Data Dashboard was successfully developed using Python, Streamlit, and Pandas. It provides an interactive interface for searching, displaying, and analyzing employee data through tables and charts.
+
+## 12. Author
+**Name:** Sana
+
+**Roll No:** 24BSIT-87
